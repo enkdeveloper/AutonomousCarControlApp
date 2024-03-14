@@ -37,7 +37,7 @@ Opening a pull request.
 
 ScreenShot
 
-![PHOTO-2024-03-05-10-30-51](https://github.com/enkdeveloper/AutonomousCarControlApp/assets/119349974/50c2eddf-b3ad-4f58-ae5b-163552274dd2)
+![PHOTO-2024-03-05-10-30-51](https://github.com/enkdeveloper/AutonomousCarControlApp/assets/119349974/531a17ad-6814-437f-a531-7f9161148fe9)
 
 
 License
