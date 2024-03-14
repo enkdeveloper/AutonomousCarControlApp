@@ -29,7 +29,9 @@ View past performance data of the car.
 Technologies Used
 
 React Native
+
 WebSocket
+
 Expo
 
 
